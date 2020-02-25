@@ -1,0 +1,7 @@
+package com.example.polls.repository;
+
+import com.example.polls.model.Car;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CarRepository extends JpaRepository<Car, Integer> {
+}

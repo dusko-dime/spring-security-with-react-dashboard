@@ -1,0 +1,1 @@
+export const UPDATE_AUTH_DATA = 'UPDATE_AUTH_DATA';
